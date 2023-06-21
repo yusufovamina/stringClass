@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: stringClass, Configuration: Debug x64 ------
+1>main.cpp
+1>C:\Users\Admin\source\repos\stringClass\stringClass\main.cpp(29,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+1>C:\Users\Admin\source\repos\stringClass\stringClass\main.cpp(132,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>C:\Users\Admin\source\repos\stringClass\stringClass\main.cpp(152,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>stringClass.vcxproj -> C:\Users\Admin\source\repos\stringClass\x64\Debug\stringClass.exe
+1>Done building project "stringClass.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:03 PM and took 01,175 seconds ==========
